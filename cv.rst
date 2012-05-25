@@ -9,16 +9,23 @@ Riccardo Carlesso
 
 :Phone:   +353-86-7944825
 
+About me
+--------
+
+I'm a very passionate and positive person. I like developing by day, going out by night.
+
+See my Blog_.
+
 Work Experience
 ---------------
 
-:Google: TODO
+:Google_: AppEngine Software Developer
 
-:Dell: Sr Cloud Developer
+:Dell_ : Sr Cloud Developer
 
-:HEAnet: Sr Software Developer
+:HEAnet_ : Sr Software Developer
 
-:Labs: Sysadmin
+:Labs_ : Sysadmin
 
 Computer Programming
 --------------------
@@ -67,8 +74,8 @@ Artificial Vision (AI).
 * Test AOP_
 
 .. _Blog: http://www.palladius.it
-.. _heanet: http://www.heanet.ie
+.. _google: http://www.google.com
 .. _dell: http://www.dell.com
+.. _heanet: http://www.heanet.ie
 .. _labs: http://www.labs.it
-.. _AOP International Exchange Services: http://aop2u.com
 
