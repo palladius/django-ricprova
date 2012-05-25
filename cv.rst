@@ -21,7 +21,7 @@ Work Experience
 
 In a nutshell, my work experiences.
 
-:Google_: AppEngine Software Developer (2012- current):Test thrid column
+:Google_: AppEngine Software Developer (2012- current).
 
 :Dell_:   Sr Cloud Developer (2011-2012)
 
