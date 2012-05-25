@@ -19,13 +19,16 @@ See my Blog_.
 Work Experience
 ---------------
 
-:2012:Google_: AppEngine Software Developer
+In a nutshell, my work experiences.
 
-:2011:Dell_: Sr Cloud Developer
+:Google_: AppEngine Software Developer (2012- current)
 
-:2009:HEAnet_: Sr Software Developer
+:Dell_:   Sr Cloud Developer (2011-2012)
 
-:2003-2008:Labs_ : Sysadmin
+:HEAnet_: Sr Software Developer (2009-2011)
+
+:Labs_ :  Sysadmin (2003-2008)
+
 
 Computer Programming
 --------------------
