@@ -1,0 +1,2 @@
+# see here: http://hackercodex.com/guide/python-install-django-on-mac-osx-lion-10.7/
+Django
