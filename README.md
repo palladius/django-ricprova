@@ -1,12 +1,12 @@
-
 About
 =====
 
 This is my first django app. Little to copy, trust me :P
 
+trying to do something with contacts (local to my Mac?)
+
 Install
 -------
-
 
 Run
 ---
