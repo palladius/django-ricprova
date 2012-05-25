@@ -41,8 +41,6 @@ Experienced with Ruby
 
 Beginner with Java, Python
 
-* Created the Channel-Tree_ user interface plugin for ChatZilla
-
 System Administration
 ----------
 
